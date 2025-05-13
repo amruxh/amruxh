@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👾 About Me
 
-<!--
-**amruxh/amruxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+// 🧠 Hidden Layer - Only for the curious
+const _ = (() => {
+  const $ = atob("QSBzaWxlbnQgc3lzdGVtLmpzIHdyaXRlci4gTm8gc2hhZG93LCBub3Byb2ZpbGUu");
+  const __ = () => console.log("👁️", $);
+  return { reveal: __ };
+})();
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// Type _.reveal() in console to see what's beneath.
+```
+> 👁️ No bio. No trace. Just code that speaks to those who know where to look.
